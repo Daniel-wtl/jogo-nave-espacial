@@ -11,4 +11,5 @@ Um jogo de uma nave espacial com munição, tiro e pontuação feito em Csharp e
 - Na Unity Clique em **Play**
 
 ## Como Baixar
-- Clique em **Code --> Download ZIP** ou clone usando Git: 
+- Clique em **Code --> Download ZIP** ou clone usando Git:
+  https://github.com/Daniel-wtl/jogo-nave-espacial.git
